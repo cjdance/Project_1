@@ -3,7 +3,7 @@
 
 # Project Description
 
-Our project aimed to look at available data for Melbourne AirBnB listings across 2019 and 2020 to identify trends in availability, room types offered and whether price or other factors affect a host’s review score.
+Our project aimed to look at available data for Melbourne AirBnB listings across 2019 and 2020 to identify trends in availability, room types offered and whether price or other factors affect bookings and review score.
 
 ### Data Sources
 There were two datasets used for this project:
