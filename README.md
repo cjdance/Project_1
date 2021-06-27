@@ -107,7 +107,7 @@ Plotted a scatter plot to check for any correlation between number of days booke
 
 You can find the code in the Jupyter Notebook file called "airbnb_final.ipynb".
 
-The folder named "output files" contains the output plots generated.
+The folder named "output files" contains the output plots generated. The folder names 'archived files' have all the indiviadual work files of the team members that were used to come to the final conclusions. The final presentation 'AirBnb Project - Sherin, Neena and Cody' has also been included in the repository
 
 This ReadMe file contains the description of the homework, data limitations and snippet of some of the data statistics.
 
