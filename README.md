@@ -60,7 +60,7 @@ The top 5 booked suburbs were further analysed to look for trends during the bus
 
 ## Number of room types in 2019 and 2020
 
-We found that the Airbnb Room types were categorised as 'Entire home/apt', 'Private Room' and 'Shared room' in 2019. A new listing 'Hotel Room' was introdced in 2020. 
+We found that the Airbnb Room types were categorised as 'Entire home/apt', 'Private Room' and 'Shared room' in 2019. A new listing 'Hotel Room' was introduced in 2020. 
 The number of listings under each room type have decreased in 2020 compared to 2019 as can be seen below
 
 ```
@@ -81,6 +81,13 @@ The number of listings under each room type have decreased in 2020 compared to 2
 ## Average number of days booked for room types in 2019 and 2020
 
 We found that the average number of days booked have increased in 2020 for entire home/ apartment and private rooms. The average number of days booked in Shared rooms have decreased in 2020.
+```
+                    listing_id	  Number of Days Booked	   Price per Night
+room_type			
+Shared room	  2.125083e+07	    278.941176	             48.147059
+Private room	  1.890974e+07	    251.235799	             76.290394
+Entire home/apt	  1.862952e+07	    226.121845	            187.818003
+```
 ```
               listing_id	Number of Days Booked	Price per Night
 room_type			
